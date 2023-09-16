@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class Class01 {
     public static void main(String[] args) {
 
@@ -9,8 +11,12 @@ public class Class01 {
         System.out.println("Version 1 icin islem tamam!");
 
         //version 2 calismasi
-        int z=4
+        int z=4;
        System.out.println(x+y+z);
+       //V3
+        System.out.println("V3 calismalari");
+        //V4
+        System.out.println("V4 kodlari");
 
 
     }
