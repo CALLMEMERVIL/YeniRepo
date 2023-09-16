@@ -7,6 +7,12 @@ public class Class01 {
         System.out.println(x=y
         );
         System.out.println("Version 1 icin islem tamam!");
+
+        //version 2 calismasi
+        int z=4
+       System.out.println(x+y+z);
+
+
     }
 
 
